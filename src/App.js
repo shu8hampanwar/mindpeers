@@ -27,6 +27,7 @@ function App() {
     <div className="App">
       <Nav />
       <Main iconsArray={iconsArray} />
+
       <Footer moodsArray={moodsArray} />
     </div>
   );

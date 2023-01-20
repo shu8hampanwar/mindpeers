@@ -57,6 +57,7 @@ const Footer = ({ moodsArray }) => {
           color: "#A5A5A5",
           fontSize: 16,
           fontWeight: "bold",
+          marginBottom: 35,
         }}
       >
         {"PROCEED"}
